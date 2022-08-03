@@ -1,0 +1,19 @@
+.select-course {
+    position: absolute;
+    top: 27px;
+    right: 72px;
+    height: 30px;
+    width: 140px;
+    border-radius: 15px;
+    text-align-last: center;
+}
+
+.select-filter {
+    position: absolute;
+    top: 27px;
+    right: 222px;
+    height: 30px;
+    width: 150px;
+    border-radius: 15px;
+    text-align-last: center;
+}

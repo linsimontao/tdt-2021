@@ -1,0 +1,26 @@
+.style-switch-2D {
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 27px;
+    right: 32px;
+    border-radius: 5px;
+    border-color: white;
+    cursor: pointer;
+}
+
+.style-switch-3D {
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 27px;
+    right: 32px;
+    border-radius: 5px;
+    cursor: pointer;
+    border-color: white;
+}
+
+.switch-image {
+    width: 30px;
+    height: 30px;
+}
